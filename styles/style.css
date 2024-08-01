@@ -418,3 +418,55 @@ line-height: 26px;
 
  /* =============== Support End=============== */
 
+/* =============== Footer Start=============== */
+#contact{
+  background-color: #FBFBFB;
+}
+.fContent{
+  padding: 50px 60px;
+  margin: 45px 90px;
+  margin-bottom: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.fText{
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: 600;
+  color:  #0D1321;
+}
+.fIcon{
+  display: flex;
+  justify-content: space-between;
+  text-align: right;
+  margin-right: 100px;
+}
+.fb i{
+    background: linear-gradient(45deg, #00B2FF, #006AFF);
+    color: white;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;  
+    height: 36px; 
+    font-size: 25px;
+}
+.git i{
+  font-size: 36px;
+  padding: 0px 24px;
+  color: #161614;
+}
+.lin i{
+    background: linear-gradient(45deg, #2489BE, #0575B3);
+    color: white;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;  
+    height: 36px; 
+    font-size: 25px;
+}
+ /* =============== Footer End=============== */
